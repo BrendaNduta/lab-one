@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Campus trade</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="password">My password</string>
+    <string name="fname">your first name</string>
+    <string name="Lname">your last name</string>
+    <string name="email">your email</string>
+    <string name="phone">your phone number</string>
+    <string name="createaccount">create an account</string>
+    <string name="login">Log in</string>
+    <string name="signup"> Sign up</string>
+
+</resources>
